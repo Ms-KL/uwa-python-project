@@ -2,3 +2,4 @@
 * text=auto
 # notebooks/** linguist-vendored
 # reverting to included in linguist count
+*.ipynb linguist-language=Python
